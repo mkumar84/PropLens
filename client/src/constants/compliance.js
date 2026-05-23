@@ -1,11 +1,10 @@
 // All disclaimer strings — never write disclaimer text inline, always import from here
 
-export const BROKERAGE_NAME = '[BROKERAGE NAME]'; // TODO: MAHESH TO PROVIDE
-export const BROKERAGE_ADDRESS = '[BROKERAGE ADDRESS]'; // TODO: MAHESH TO PROVIDE
+export const BROKERAGE_NAME = 'Gold Estate Realty Inc., Brokerage]'; // TODO: MAHESH TO PROVIDE
+export const BROKERAGE_ADDRESS = '79 Bramsteele Rd Unit #203, Brampton, ON L6W 3K6'; // TODO: MAHESH TO PROVIDE
 export const BROKERAGE_LOGO = '/images/brokerage-logo.png'; // TODO: MAHESH TO PROVIDE
-export const RECO_REG = '[RECO REG #]'; // TODO: MAHESH TO PROVIDE
-export const PREC_NAME = '[PREC NAME]'; // TODO: MAHESH TO PROVIDE
-export const CONTACT_EMAIL = 'mahesh@propertylens.ca'; // TODO: MAHESH TO PROVIDE
+export const RECO_REG = '5024514'; // TODO: MAHESH TO PROVIDE
+export const CONTACT_EMAIL = 'mahitherealtor@gmail.com'; // TODO: MAHESH TO PROVIDE
 export const AGENT_NAME = 'Mahesh Kumar';
 export const CURRENT_YEAR = new Date().getFullYear();
 
